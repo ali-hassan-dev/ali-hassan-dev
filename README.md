@@ -6,15 +6,17 @@
 
 <h3>A professional software developer</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 Currently exploring **DevOps**
 
-- 💬 Ask me about **PHP, JS and Laravel**
+- 💬 Ask me about **PHP, JS, TS, Next.js, Laravel**
 
-- 👀 I’m mostly interested in **backend development**
+- 🌐 Building the **web**
 
-- 💞️ Open to collaborate on projects
+- 💻 Crafting high-performance **digital solutions**
 
-- ⚡ Fun fact *I have broken humor* 
+- 💞️ Open for **collaborations**
+
+- ⚡ Fun fact: **master of puns** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
