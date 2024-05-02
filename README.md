@@ -1,4 +1,4 @@
-<img src="https://github.com/iHassanAli/iHassanAli/blob/main/github-header-image.png" style="width: 100%" alt="Header">
+<img src="https://github.com/iHassanAli/iHassanAli/blob/main/header-image.png" style="width: 100%" alt="Header">
 
 <hr>
 
