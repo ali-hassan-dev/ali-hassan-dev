@@ -1,4 +1,4 @@
-<img src="https://github.com/iHassanAli/iHassanAli/blob/main/header-image.png" style="width: 100%" alt="Header">
+<img src="https://github.com/ali-hassan-dev/ali-hassan-dev/blob/main/header-image.png" style="width: 100%" alt="Header">
 
 <hr>
 
@@ -34,4 +34,4 @@
 
 This doesn't take into account the work done in forks, organizations, or private repos.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ihassanali&show_icons=true&locale=en)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ali-hassan-dev&show_icons=true&locale=en)
