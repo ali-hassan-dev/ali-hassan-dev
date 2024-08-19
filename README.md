@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/ali_hassan_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_hassan_aly" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/its-ali-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its-hassan-ali" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ali-hassan-fullstack-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its-hassan-ali" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17360979/ali-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/17360979/hassan-ali" height="30" width="40" /></a>
 <a href="https://facebook.com/ali.hassan.kasurii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassanali050" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ali_hassan_kasuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan._._ali" height="30" width="40" /></a>
