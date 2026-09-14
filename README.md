@@ -1,37 +1,83 @@
-<img src="https://github.com/ali-hassan-dev/ali-hassan-dev/blob/main/header-image.png" style="width: 100%" alt="Header">
+# Hi, I'm Ali Hassan
 
-<hr>
+**Full-Stack Engineer | SaaS Development, API Integrations & Application Modernization**
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+I build and improve SaaS applications, business portals, and integrations that automate manual workflows. I help teams add features, resolve performance bottlenecks, and modernize existing systems.
 
-<h3>A professional software developer</h3>
+My experience includes software engineering at **i2c Inc.** and **PureLogics**, alongside freelance projects in e-commerce and e-learning.
 
-- 🌱 Currently exploring **DevOps**
+**Core stack:** React, Next.js, TypeScript, Node.js, Laravel, Java & Spring Boot.
 
-- 💬 Ask me about **PHP, JS, TS, Next.js, Laravel**
+**Open to freelance projects and long-term collaboration.**
 
-- 🌐 Building the **web**
+[Discuss your project on Upwork](https://www.upwork.com/freelancers/~0110268fa5a62812e0) · [LinkedIn](https://www.linkedin.com/in/ali-hassan-fullstack-dev)
 
-- 💻 Crafting high-performance **digital solutions**
+## How I can help
 
-- 💞️ Open for **collaborations**
+- **SaaS applications and business portals:** Build customer dashboards, admin interfaces, authentication, role-based access, and subscription workflows.
+- **API integrations and automation:** Connect payment providers and external platforms using REST APIs, OAuth, webhooks, and scheduled background jobs.
+- **Maintenance and modernization:** Diagnose bugs, add features, refactor difficult code, and modernize existing JavaScript, PHP, and Java applications.
+- **Performance optimization:** Investigate slow builds, heavy frontend bundles, database bottlenecks, and inefficient caching.
 
-- ⚡ Fun fact: **master of puns** 
+## Selected professional contributions
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/ali_hassan_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_hassan_aly" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ali-hassan-fullstack-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its-hassan-ali" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17360979/ali-hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/17360979/hassan-ali" height="30" width="40" /></a>
-<a href="https://facebook.com/ali.hassan.kasurii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hassanali050" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ali_hassan_kasuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassan._._ali" height="30" width="40" /></a>
-</p>
+The examples below describe my contributions to commercial applications with private source code.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### TMS — Application performance
 
-<h3 align="left">My GitHub stats</h3>
+Improved a Test Management System supporting projects, sprints, test planning, and reporting.
 
-This doesn't take into account the work done in forks, organizations, or private repos.
+- Reduced build time from **30 minutes to 5 minutes**, an **83% reduction**.
+- Reduced the React bundle from **1.89 MB to 800 KB**.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ali-hassan-dev&show_icons=true&locale=en)
+These improvements involved code splitting and dependency optimization.
+
+### Kodati — E-commerce integrations
+
+Implemented integrations in a multi-tenant platform connecting **Salla and Zid** stores with **EZ PIN and LikeCard** gift-card APIs.
+
+The fulfillment workflow included webhook-driven order processing, product mapping, profitability checks, and provider selection with fallback.
+
+**Technologies:** Next.js, TypeScript, MySQL, REST APIs, webhooks.
+
+### i2c Inc. — Java systems and modernization
+
+- Contributed to migrating a Struts/JSP customer-service application to **React and Spring Boot**.
+- Moved a heavyweight JVM cache to **Dockerized Redis** and separated cache refresh responsibilities into a dedicated service, reducing application startup overhead.
+- Built a multithreaded batch-processing service for a dataset of **2.2M+ database records**, with separate fetching, processing, and persistence stages connected through queues.
+
+### [Tafawwaq](https://tafawwaq.com/) — Subscription automation
+
+Integrated **monthly and yearly PayPal subscriptions** into a Laravel application to automate course enrollment.
+
+**Technologies:** PHP, Laravel, PayPal APIs.
+
+## Technologies I work with
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
+| Backend | Node.js, Express, PHP, Laravel, Java, Spring Boot |
+| Databases and caching | MySQL, PostgreSQL, MongoDB, Redis |
+| Integrations and messaging | REST APIs, OAuth, webhooks, PayPal, Kafka |
+| Testing | JUnit, TestNG, Selenium, Vitest |
+| Development and deployment | Git, Docker, Linux |
+
+## How I approach projects
+
+- Clarify the business goal, scope, constraints, and acceptance criteria before implementation.
+- Break work into reviewable milestones and communicate progress and blockers early.
+- Prioritize readable code, reusable components, input validation, and clear error handling.
+- Verify critical workflows and document setup and significant implementation decisions.
+
+## Background
+
+**BS Software Engineering — NUST**
+
+Based in **Lahore, Pakistan · UTC+5**.
+
+## Let's discuss your project
+
+Building a new application or improving an existing one?
+
+[Contact me on Upwork](https://www.upwork.com/freelancers/~0110268fa5a62812e0) with the feature, integration, or problem you need help with and your preferred timeline.
