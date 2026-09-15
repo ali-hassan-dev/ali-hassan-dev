@@ -35,7 +35,7 @@ Built a Node.js/Express service that receives verification webhooks, retrieves s
 - Moved a heavyweight JVM cache to **Dockerized Redis** and separated cache refresh into a dedicated service, reducing application startup overhead.
 - Built a concurrent batch-processing pipeline for **2.2M+ financial records**, with fetching, processing, and persistence stages connected through queues and batched database operations.
 
-### Tafawwaq — Subscription automation
+### [Tafawwaq](https://tafawwaq.com) — Subscription automation
 
 Integrated **monthly and yearly PayPal subscriptions** into a Laravel application to automate course enrollment after successful payment.
 
