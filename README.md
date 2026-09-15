@@ -1,83 +1,67 @@
 # Hi, I'm Ali Hassan
 
-**Full-Stack Engineer | SaaS Development, API Integrations & Application Modernization**
+**Full-Stack Engineer | SaaS Apps, API Integrations & Application Modernization**
 
 I build and improve SaaS applications, business portals, and integrations that automate manual workflows. I help teams add features, resolve performance bottlenecks, and modernize existing systems.
 
-My experience includes software engineering at **i2c Inc.** and **PureLogics**, alongside freelance projects in e-commerce and e-learning.
+My experience includes software engineering at **i2c Inc.** and **PureLogics**, alongside freelance work for international clients.
 
-**Core stack:** React, Next.js, TypeScript, Node.js, Laravel, Java & Spring Boot.
+[Explore my portfolio](https://ali-hassan-dev.netlify.app/) · [Discuss your project on Upwork](https://www.upwork.com/freelancers/~0110268fa5a62812e0)
 
-**Open to freelance projects and long-term collaboration.**
+## Selected work
 
-[Discuss your project on Upwork](https://www.upwork.com/freelancers/~0110268fa5a62812e0) · [LinkedIn](https://www.linkedin.com/in/ali-hassan-fullstack-dev)
+### TMS — React performance
 
-## How I can help
+Optimized the React frontend of PureLogics' internal Test Management System through code splitting, dependency optimization, and asset management.
 
-- **SaaS applications and business portals:** Build customer dashboards, admin interfaces, authentication, role-based access, and subscription workflows.
-- **API integrations and automation:** Connect payment providers and external platforms using REST APIs, OAuth, webhooks, and scheduled background jobs.
-- **Maintenance and modernization:** Diagnose bugs, add features, refactor difficult code, and modernize existing JavaScript, PHP, and Java applications.
-- **Performance optimization:** Investigate slow builds, heavy frontend bundles, database bottlenecks, and inefficient caching.
+- Reduced the frontend bundle from **1.89 MB to 800 KB**.
+- Reduced Bitbucket build duration from **30 minutes to 5 minutes**.
 
-## Selected professional contributions
+### Kodati — E-commerce fulfillment
 
-The examples below describe my contributions to commercial applications with private source code.
+Built a multi-tenant middleware platform connecting **Salla and Zid** stores with **EZ PIN and LikeCard** gift-card providers. Implemented webhook-driven fulfillment, product mapping, profitability checks, provider selection with fallback, and tenant-level data isolation.
 
-### TMS — Application performance
+**Built with:** Next.js, TypeScript, MySQL.
 
-Improved a Test Management System supporting projects, sprints, test planning, and reporting.
+### Veriff KYC integration — Backend automation
 
-- Reduced build time from **30 minutes to 5 minutes**, an **83% reduction**.
-- Reduced the React bundle from **1.89 MB to 800 KB**.
+Built a Node.js/Express service that receives verification webhooks, retrieves session data and media through Veriff APIs, and uploads records to SharePoint.
 
-These improvements involved code splitting and dependency optimization.
-
-### Kodati — E-commerce integrations
-
-Implemented integrations in a multi-tenant platform connecting **Salla and Zid** stores with **EZ PIN and LikeCard** gift-card APIs.
-
-The fulfillment workflow included webhook-driven order processing, product mapping, profitability checks, and provider selection with fallback.
-
-**Technologies:** Next.js, TypeScript, MySQL, REST APIs, webhooks.
+[View the source code](https://github.com/ali-hassan-dev/veriff-kyc-server)
 
 ### i2c Inc. — Java systems and modernization
 
-- Contributed to migrating a Struts/JSP customer-service application to **React and Spring Boot**.
-- Moved a heavyweight JVM cache to **Dockerized Redis** and separated cache refresh responsibilities into a dedicated service, reducing application startup overhead.
-- Built a multithreaded batch-processing service for a dataset of **2.2M+ database records**, with separate fetching, processing, and persistence stages connected through queues.
+- Modernized selected C-Agent modules by migrating Struts/JSP interfaces to **React** and integrating them with **Spring Boot and Hibernate** services.
+- Moved a heavyweight JVM cache to **Dockerized Redis** and separated cache refresh into a dedicated service, reducing application startup overhead.
+- Built a concurrent batch-processing pipeline for **2.2M+ financial records**, with fetching, processing, and persistence stages connected through queues and batched database operations.
 
-### [Tafawwaq](https://tafawwaq.com/) — Subscription automation
+### Tafawwaq — Subscription automation
 
-Integrated **monthly and yearly PayPal subscriptions** into a Laravel application to automate course enrollment.
+Integrated **monthly and yearly PayPal subscriptions** into a Laravel application to automate course enrollment after successful payment.
 
-**Technologies:** PHP, Laravel, PayPal APIs.
+These examples describe my implementation contributions. Some employer and client source code is private; my portfolio provides additional project context.
 
-## Technologies I work with
+## How I can help
+
+- **SaaS development:** Customer dashboards, admin interfaces, role-based access, and subscription workflows.
+- **API integrations:** Payments, e-commerce platforms, verification services, webhooks, and background automation.
+- **Maintenance and modernization:** Bug fixes, new features, refactoring, and updates to existing JavaScript, PHP, and Java applications.
+- **Performance optimization:** Frontend bundles, build times, database access, and caching.
+
+## Technical focus
 
 | Area | Technologies |
 | --- | --- |
-| Frontend | React, Next.js, TypeScript, JavaScript, Tailwind CSS |
-| Backend | Node.js, Express, PHP, Laravel, Java, Spring Boot |
-| Databases and caching | MySQL, PostgreSQL, MongoDB, Redis |
-| Integrations and messaging | REST APIs, OAuth, webhooks, PayPal, Kafka |
-| Testing | JUnit, TestNG, Selenium, Vitest |
-| Development and deployment | Git, Docker, Linux |
+| Frontend | React, Next.js, TypeScript, Tailwind CSS |
+| Backend | Node.js, Express.js, Laravel, Java, Spring Boot |
+| Databases & caching | MySQL, PostgreSQL, MongoDB, Redis |
+| Integrations & messaging | REST APIs, OAuth 2.0, webhooks, Kafka |
+| Testing & delivery | JUnit, TestNG, Selenium, Git, Docker |
 
-## How I approach projects
+## Working together
 
-- Clarify the business goal, scope, constraints, and acceptance criteria before implementation.
-- Break work into reviewable milestones and communicate progress and blockers early.
-- Prioritize readable code, reusable components, input validation, and clear error handling.
-- Verify critical workflows and document setup and significant implementation decisions.
+I clarify the scope and acceptance criteria, break work into reviewable milestones, and communicate progress and blockers early. I prioritize maintainable code, verify critical workflows, and document setup and significant implementation decisions.
 
-## Background
+**BS Software Engineering — NUST** · Lahore, Pakistan · UTC+5
 
-**BS Software Engineering — NUST**
-
-Based in **Lahore, Pakistan · UTC+5**.
-
-## Let's discuss your project
-
-Building a new application or improving an existing one?
-
-[Contact me on Upwork](https://www.upwork.com/freelancers/~0110268fa5a62812e0) with the feature, integration, or problem you need help with and your preferred timeline.
+**Have a feature, integration, or bottleneck to work on?** [Send me your project details on Upwork](https://www.upwork.com/freelancers/~0110268fa5a62812e0), including your priorities and preferred timeline.
