@@ -1,67 +1,73 @@
 # Hi, I'm Ali Hassan
 
-**Full-Stack Engineer | SaaS Apps, API Integrations & Application Modernization**
+**Full-Stack Engineer | SaaS, API Integrations, Payments, and AI Features**
 
-I build and improve SaaS applications, business portals, and integrations that automate manual workflows. I help teams add features, resolve performance bottlenecks, and modernize existing systems.
+I build SaaS products, payment flows, and integrations that take manual work out of a team's day, and I fix the slow or messy codebases that hold teams back. React, Next.js, Node.js, and TypeScript are my main stack, with Laravel, PHP, and Java when the project needs them.
 
-My experience includes software engineering at **i2c Inc.** and **PureLogics**, alongside freelance work for international clients.
+I'm a software engineer at **i2c Inc.**, a global digital banking and payments company, and I freelance with international clients on Upwork. Before i2c, I worked at **PureLogics**.
 
-[Explore my portfolio](https://ali-hassan-dev.netlify.app/) · [Discuss your project on Upwork](https://www.upwork.com/freelancers/~0110268fa5a62812e0)
+[Explore my portfolio](https://ali-hassan-dev.netlify.app/) · [Work with me on Upwork](https://www.upwork.com/freelancers/~0110268fa5a62812e0)
 
 ## Selected work
 
-### TMS — React performance
+### Kodati: multi-tenant gift card fulfillment
 
-Optimized the React frontend of PureLogics' internal Test Management System through code splitting, dependency optimization, and asset management.
-
-- Reduced the frontend bundle from **1.89 MB to 800 KB**.
-- Reduced Bitbucket build duration from **30 minutes to 5 minutes**.
-
-### Kodati — E-commerce fulfillment
-
-Built a multi-tenant middleware platform connecting **Salla and Zid** stores with **EZ PIN and LikeCard** gift-card providers. Implemented webhook-driven fulfillment, product mapping, profitability checks, provider selection with fallback, and tenant-level data isolation.
+Middleware that connects **Salla and Zid** stores to the **EZ PIN and LikeCard** gift card APIs. I owned the backend, integrations, and app logic in a three-person team: webhook-driven fulfillment, product-to-SKU mapping, margin checks before any balance is spent, automatic provider failover, and tenant-level data isolation.
 
 **Built with:** Next.js, TypeScript, MySQL.
 
-### Veriff KYC integration — Backend automation
+### Tawthiq: shared customer reputation for online stores
 
-Built a Node.js/Express service that receives verification webhooks, retrieves session data and media through Veriff APIs, and uploads records to SharePoint.
+When one Salla or Zid store rejects a customer, the next store that customer orders from sees an anonymous count before it ships. No store sees who decided or any other store's data. I was the sole developer, working from a designer's Figma files.
+
+**Built with:** React, Node.js, Express, MySQL.
+
+### Veriff KYC integration: backend automation
+
+A Node.js and TypeScript service that verifies signed Veriff webhooks with a constant-time HMAC check, fetches each session from seven Veriff endpoints in parallel, and files every JSON record and image into SharePoint, sorted by outcome.
 
 [View the source code](https://github.com/ali-hassan-dev/veriff-kyc-server)
 
-### i2c Inc. — Java systems and modernization
+### Claude content engine for a WordPress SEO plugin
 
-- Modernized selected C-Agent modules by migrating Struts/JSP interfaces to **React** and integrating them with **Spring Boot and Hibernate** services.
-- Moved a heavyweight JVM cache to **Dockerized Redis** and separated cache refresh into a dedicated service, reducing application startup overhead.
-- Built a concurrent batch-processing pipeline for **2.2M+ financial records**, with fetching, processing, and persistence stages connected through queues and batched database operations.
+Built the content generation for a client's live [WordPress.org plugin](https://wordpress.org/plugins/improveseo/): single or bulk blog posts from target keywords through the Claude API, scheduled to publish automatically.
 
-### [Tafawwaq](https://tafawwaq.com) — Subscription automation
+### i2c Inc.: Java systems and modernization
 
-Integrated **monthly and yearly PayPal subscriptions** into a Laravel application to automate course enrollment after successful payment.
+- Built a multithreaded batch pipeline that processes **2.2M+ financial records**, with fetcher, processor, and persister threads linked by queues and batched writes.
+- Modernized modules of a legacy customer-service app from **Struts/JSP to React**, on **Spring Boot and Hibernate** services.
+- Built a bidirectional **Kafka** integration that passes verification flags and agent and queue data between IVR, telephony, and AI systems.
 
-These examples describe my implementation contributions. Some employer and client source code is private; my portfolio provides additional project context.
+### PureLogics: a MERN learning platform and React performance
+
+- Built a **MERN learning platform** with monthly and yearly **PayPal subscriptions** and automatic course enrollment after payment.
+- Cut a React bundle from **1.89 MB to 800 KB** with code splitting, dependency cleanup, and asset optimization, bringing CI build time from **30 minutes to 5**.
+
+These examples describe my own contributions. Employer and client source code is private; my portfolio has more detail and screenshots.
 
 ## How I can help
 
-- **SaaS development:** Customer dashboards, admin interfaces, role-based access, and subscription workflows.
-- **API integrations:** Payments, e-commerce platforms, verification services, webhooks, and background automation.
-- **Maintenance and modernization:** Bug fixes, new features, refactoring, and updates to existing JavaScript, PHP, and Java applications.
-- **Performance optimization:** Frontend bundles, build times, database access, and caching.
+- **SaaS development:** dashboards, admin panels, role-based access, and subscription billing.
+- **API integrations:** payments, e-commerce platforms, identity verification, webhooks, and background automation.
+- **AI features:** Claude and OpenAI APIs, or local models with Ollama, built into products people already use.
+- **Maintenance and modernization:** bug fixes, new features, and refactoring in existing JavaScript, PHP, and Java apps.
+- **Performance:** frontend bundles, build times, and slow database queries.
 
 ## Technical focus
 
 | Area | Technologies |
 | --- | --- |
-| Frontend | React, Next.js, TypeScript, Tailwind CSS |
-| Backend | Node.js, Express.js, Laravel, Java, Spring Boot |
-| Databases & caching | MySQL, PostgreSQL, MongoDB, Redis |
-| Integrations & messaging | REST APIs, OAuth 2.0, webhooks, Kafka |
-| Testing & delivery | JUnit, TestNG, Selenium, Git, Docker |
+| Frontend | React, Next.js, TypeScript, Tailwind CSS, Vue.js, Svelte |
+| Backend | Node.js, Express.js, Laravel, PHP, Java, Spring Boot |
+| Databases | MySQL, PostgreSQL, MongoDB, Microsoft SQL Server |
+| Integrations and messaging | REST APIs, OAuth 2.0, webhooks, Stripe, PayPal, Kafka |
+| AI | Claude API, OpenAI API, Ollama |
+| Testing and delivery | JUnit, TestNG, Selenium, Git, Bitbucket |
 
 ## Working together
 
-I clarify the scope and acceptance criteria, break work into reviewable milestones, and communicate progress and blockers early. I prioritize maintainable code, verify critical workflows, and document setup and significant implementation decisions.
+I clarify the scope and acceptance criteria, break work into reviewable milestones, and flag progress and blockers early. I write maintainable code, test the workflows that matter, and document setup and key decisions.
 
-**BS Software Engineering — NUST** · Lahore, Pakistan · UTC+5
+**Bachelor of Software Engineering, NUST** · Pakistan (UTC+5) · Remote
 
 **Have a feature, integration, or bottleneck to work on?** [Send me your project details on Upwork](https://www.upwork.com/freelancers/~0110268fa5a62812e0), including your priorities and preferred timeline.
