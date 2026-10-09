@@ -1,12 +1,16 @@
-# Hi, I'm Ali Hassan
+![Ali Hassan, Full-Stack Engineer: SaaS apps, payment flows, API integrations, and AI features](header-image.png)
 
-**Full-Stack Engineer | SaaS, API Integrations, Payments, and AI Features**
+# Hi, I'm Ali Hassan
 
 I build SaaS products, payment flows, and integrations that take manual work out of a team's day, and I fix the slow or messy codebases that hold teams back. React, Next.js, Node.js, and TypeScript are my main stack, with Laravel, PHP, and Java when the project needs them.
 
-I'm a software engineer at **i2c Inc.**, a global digital banking and payments company, and I freelance with international clients on Upwork. Before i2c, I worked at **PureLogics**.
+I'm a software engineer at **i2c Inc.**, a global payments company, and I freelance with international clients on Upwork. Before i2c, I worked at **PureLogics**.
 
-[Explore my portfolio](https://ali-hassan-dev.netlify.app/) · [Work with me on Upwork](https://www.upwork.com/freelancers/~0110268fa5a62812e0)
+**14 Upwork jobs · 91% Job Success · 9 five-star reviews · one UK client hired me three times**
+
+**Available 30+ hours a week**, weekday evenings and weekends Pakistan time, which overlaps the US working day. Hourly or fixed price, and long-term contracts are welcome.
+
+[Portfolio and case studies](https://ali-hassan-dev.netlify.app/upwork) · [Work with me on Upwork](https://www.upwork.com/freelancers/~0110268fa5a62812e0)
 
 ## Selected work
 
@@ -14,19 +18,19 @@ I'm a software engineer at **i2c Inc.**, a global digital banking and payments c
 
 Middleware that connects **Salla and Zid** stores to the **EZ PIN and LikeCard** gift card APIs. I owned the backend, integrations, and app logic in a three-person team: webhook-driven fulfillment, product-to-SKU mapping, margin checks before any balance is spent, automatic provider failover, and tenant-level data isolation.
 
-**Built with:** Next.js, TypeScript, MySQL.
+**Built with:** Next.js, TypeScript, MySQL. [Read the case study](https://ali-hassan-dev.netlify.app/upwork#kodati)
 
 ### Tawthiq: shared customer reputation for online stores
 
 When one Salla or Zid store rejects a customer, the next store that customer orders from sees an anonymous count before it ships. No store sees who decided or any other store's data. I was the sole developer, working from a designer's Figma files.
 
-**Built with:** React, Node.js, Express, MySQL.
+**Built with:** React, Node.js, Express, MySQL. [Read the case study](https://ali-hassan-dev.netlify.app/upwork#tawthiq)
 
 ### Veriff KYC integration: backend automation
 
 A Node.js and TypeScript service that verifies signed Veriff webhooks with a constant-time HMAC check, fetches each session from seven Veriff endpoints in parallel, and files every JSON record and image into SharePoint, sorted by outcome.
 
-[View the source code](https://github.com/ali-hassan-dev/veriff-kyc-server)
+[View the source code](https://github.com/ali-hassan-dev/veriff-kyc-server) · [Read the case study](https://ali-hassan-dev.netlify.app/upwork#veriff)
 
 ### Claude content engine for a WordPress SEO plugin
 
