@@ -36,6 +36,12 @@ A Node.js and TypeScript service that verifies signed Veriff webhooks with a con
 
 Built the content generation for a client's live [WordPress.org plugin](https://wordpress.org/plugins/improveseo/): single or bulk blog posts from target keywords through the Claude API, scheduled to publish automatically.
 
+### Time Tracker: a Laravel app for an Upwork client
+
+Employees clock their own hours with a one-click Livewire timer, and admins manage users, correct logs, and filter by date, client, country, and payment method. The client's review: **"Excellent Laravel Developer."** Shared with the client's permission.
+
+**Built with:** Laravel 11, Livewire 3, Tailwind CSS. [View the source code](https://github.com/ali-hassan-dev/time-tracker)
+
 ### i2c Inc.: Java systems and modernization
 
 - Built a multithreaded batch pipeline that processes **2.2M+ financial records**, with fetcher, processor, and persister threads linked by queues and batched writes.
@@ -47,7 +53,7 @@ Built the content generation for a client's live [WordPress.org plugin](https://
 - Built a **MERN learning platform** with monthly and yearly **PayPal subscriptions** and automatic course enrollment after payment.
 - Cut a React bundle from **1.89 MB to 800 KB** with code splitting, dependency cleanup, and asset optimization, bringing CI build time from **30 minutes to 5**.
 
-These examples describe my own contributions. Employer and client source code is private; my portfolio has more detail and screenshots.
+These examples describe my own contributions. Employer and client source code is private, except Time Tracker, which the client agreed to share. My portfolio has more detail and screenshots.
 
 ## How I can help
 
