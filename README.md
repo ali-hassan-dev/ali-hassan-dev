@@ -12,6 +12,8 @@ I'm a software engineer at **i2c Inc.**, a global payments company, and I freela
 
 [Portfolio and case studies](https://ali-hassan-dev.netlify.app/upwork) · [Work with me on Upwork](https://www.upwork.com/freelancers/~0110268fa5a62812e0)
 
+**Code you can read:** [veriff-kyc-server](https://github.com/ali-hassan-dev/veriff-kyc-server) and [time-tracker](https://github.com/ali-hassan-dev/time-tracker), both tested automatically on every push with GitHub Actions.
+
 ## Selected work
 
 ### Kodati: multi-tenant gift card fulfillment
@@ -28,7 +30,7 @@ When one Salla or Zid store rejects a customer, the next store that customer ord
 
 ### Veriff KYC integration: backend automation
 
-A Node.js and TypeScript service that verifies signed Veriff webhooks with a constant-time HMAC check, fetches each session from seven Veriff endpoints in parallel, and files every JSON record and image into SharePoint, sorted by outcome.
+A Node.js and TypeScript service that verifies signed Veriff webhooks with a constant-time HMAC check, fetches each session from seven Veriff endpoints in parallel, and files every JSON record and image into SharePoint, sorted by outcome. Covered by 40+ automated tests for signatures, API key failover, the parallel fetch, and the SharePoint folder layout.
 
 [View the source code](https://github.com/ali-hassan-dev/veriff-kyc-server) · [Read the case study](https://ali-hassan-dev.netlify.app/upwork#veriff)
 
@@ -38,7 +40,7 @@ Built the content generation for a client's live [WordPress.org plugin](https://
 
 ### Time Tracker: a Laravel app for an Upwork client
 
-Employees clock their own hours with a one-click Livewire timer, and admins manage users, correct logs, and filter by date, client, country, and payment method. The client's review: **"Excellent Laravel Developer."** Shared with the client's permission.
+Employees clock their own hours with a one-click Livewire timer, and admins manage users, correct logs, and filter by date, client, country, and payment method. The client's review: **"Excellent Laravel Developer."** Shared with the client's permission, and hardened after delivery with 100+ automated tests running on GitHub Actions.
 
 **Built with:** Laravel 11, Livewire 3, Tailwind CSS. [View the source code](https://github.com/ali-hassan-dev/time-tracker)
 
