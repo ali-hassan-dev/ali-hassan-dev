@@ -40,9 +40,9 @@ Built the content generation for a client's live [WordPress.org plugin](https://
 
 ### Time Tracker: a Laravel app for an Upwork client
 
-Employees clock their own hours with a one-click Livewire timer, and admins manage users, correct logs, and filter by date, client, country, and payment method. The client's review: **"Excellent Laravel Developer."** Shared with the client's permission, and hardened after delivery with 100+ automated tests running on GitHub Actions.
+Employees clock their own hours with a one-click Livewire timer, and admins manage users, correct logs, and filter by date, client, country, and payment method. The client's review: **"Excellent Laravel Developer."** Shared with the client's permission. After delivery I added 100+ automated tests on GitHub Actions, then upgraded it from Laravel 11 to Laravel 13 with every test still passing.
 
-**Built with:** Laravel 11, Livewire 3, Tailwind CSS. [View the source code](https://github.com/ali-hassan-dev/time-tracker)
+**Built with:** Laravel 13, Livewire 3, Tailwind CSS 4. [View the source code](https://github.com/ali-hassan-dev/time-tracker)
 
 ### i2c Inc.: Java systems and modernization
 
@@ -62,7 +62,7 @@ These examples describe my own contributions. Employer and client source code is
 - **SaaS development:** dashboards, admin panels, role-based access, and subscription billing.
 - **API integrations:** payments, e-commerce platforms, identity verification, webhooks, and background automation.
 - **AI features:** Claude and OpenAI APIs, or local models with Ollama, built into products people already use.
-- **Maintenance and modernization:** bug fixes, new features, and refactoring in existing JavaScript, PHP, and Java apps.
+- **Maintenance and modernization:** framework upgrades, bug fixes, new features, and refactoring in existing JavaScript, PHP, and Java apps.
 - **Performance:** frontend bundles, build times, and slow database queries.
 
 ## Technical focus
