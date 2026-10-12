@@ -57,7 +57,7 @@ Employees clock their own hours with a one-click Livewire timer, and admins mana
 - Built a **MERN learning platform** with monthly and yearly **PayPal subscriptions** and automatic course enrollment after payment.
 - Cut a React bundle from **1.89 MB to 800 KB** with code splitting, dependency cleanup, and asset optimization, bringing CI build time from **30 minutes to 5**.
 
-These examples describe my own contributions. Employer and client source code is private, except Time Tracker, which the client agreed to share. My portfolio has more detail and screenshots.
+These examples describe my own contributions. Employer and client source code stays private. Time Tracker is public with the client's permission, and veriff-kyc-server is my own code, separate from the client's private repository. My portfolio has more detail and screenshots.
 
 ## How I can help
 
