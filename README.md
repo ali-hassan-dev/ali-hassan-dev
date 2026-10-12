@@ -38,6 +38,8 @@ A Node.js and TypeScript service that verifies signed Veriff webhooks with a con
 
 Built the content generation for a client's live [WordPress.org plugin](https://wordpress.org/plugins/improveseo/): single or bulk blog posts from target keywords through the Claude API, scheduled to publish automatically.
 
+**Built with:** PHP, WordPress, Claude API. [Read more](https://ali-hassan-dev.netlify.app/upwork#ai)
+
 ### Time Tracker: a Laravel app for an Upwork client
 
 Employees clock their own hours with a one-click Livewire timer, and admins manage users, correct logs, and filter by date, client, country, and payment method. The client's review: **"Excellent Laravel Developer."** Shared with the client's permission. After delivery I added 100+ automated tests on GitHub Actions, then upgraded it from Laravel 11 to Laravel 13 with every test still passing.
@@ -74,11 +76,11 @@ These examples describe my own contributions. Employer and client source code is
 | Databases | MySQL, PostgreSQL, MongoDB, Microsoft SQL Server |
 | Integrations and messaging | REST APIs, OAuth 2.0, webhooks, Stripe, PayPal, Kafka |
 | AI | Claude API, OpenAI API, Ollama |
-| Testing and delivery | JUnit, TestNG, Selenium, Git, Bitbucket |
+| Testing and delivery | Vitest, Pest, JUnit, TestNG, Selenium, GitHub Actions, Git, Bitbucket |
 
 ## Working together
 
-I clarify the scope and acceptance criteria, break work into reviewable milestones, and flag progress and blockers early. I write maintainable code, test the workflows that matter, and document setup and key decisions.
+I clarify the scope and acceptance criteria, break work into reviewable milestones, and flag progress and blockers early. I write maintainable code, test the workflows that matter, and document setup and key decisions. I use AI coding tools like Claude Code to move faster, and I review and test every change myself before it ships.
 
 **Bachelor of Software Engineering, NUST** · Pakistan (UTC+5) · Remote
 
