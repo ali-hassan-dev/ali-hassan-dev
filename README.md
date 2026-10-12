@@ -14,6 +14,17 @@ I'm a software engineer at **i2c Inc.**, a global payments company, and I freela
 
 **Code you can read:** [veriff-kyc-server](https://github.com/ali-hassan-dev/veriff-kyc-server) and [time-tracker](https://github.com/ali-hassan-dev/time-tracker), both tested automatically on every push with GitHub Actions.
 
+## What clients say
+
+> "Did excellent job of the work. Completed quickly and first time round."<br>
+> *UK client, multi-page Tailwind UI build in Laravel, Inertia, and React*
+
+> "Very good freelancer. Easy to communicate and work with. Did excellent job of work."<br>
+> *UK client, Tailwind and React template integration*
+
+> "Excellent Laravel Developer."<br>
+> *Client in Georgia, employee time tracker*
+
 ## Selected work
 
 ### Kodati: multi-tenant gift card fulfillment
